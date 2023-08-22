@@ -1,4 +1,4 @@
-import { EnergyType } from "../Energy";
+import { EnergyType } from '../Energy';
 
 export default abstract class Archertype {
   private _name: string;
