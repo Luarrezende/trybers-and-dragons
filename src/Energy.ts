@@ -7,4 +7,4 @@ export default interface Energy {
 
 export {
   EnergyType,
-}
+};

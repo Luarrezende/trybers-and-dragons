@@ -7,7 +7,7 @@ export default class Dwarf extends Race {
   constructor(n: string, d: number) {
     super(n, d);
     Dwarf.count += 1;
-    this._maxLifePoints = 80;;
+    this._maxLifePoints = 80;
   }
 
   static createdRacesInstances(): number {
